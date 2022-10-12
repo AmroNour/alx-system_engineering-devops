@@ -1,2 +1,4 @@
-0x02. Shell, I/O Redirections and filters
+0. prints Hello World
+1. prints a Confused smiley
+2. displays a file
 
